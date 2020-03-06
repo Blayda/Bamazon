@@ -80,12 +80,8 @@ function start() {
                     productData.price * orderQuantity
                 )
               );
-              console.log(
-                chalk.yellowBright(
-                  "Great, you have succesfully placed your order."
-                )
-              );
-              console.log(chalk.blueBright("Thank you for shopping Bamazon."));
+              console.log(chalk.yellowBright("You have placed your order."));
+              console.log(chalk.blueBright("Thank you for shopping!"));
 
               connection.end();
             });
