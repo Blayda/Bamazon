@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dragon-stark/BAMazon.git"
+    "url": "git+https://github.com/Blayda/Bamazon.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dragon-stark/BAMazon/issues"
+    "url": "https://github.com/Blayda/Bamazon/issues"
   },
-  "homepage": "https://github.com/dragon-stark/BAMazon#readme",
+  "homepage": "https://github.com/Blayda/Bamazon#readme",
   "dependencies": {
     "chalk": "^3.0.0",
     "dotenv": "^8.2.0",
